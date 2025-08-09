@@ -32,6 +32,12 @@
                     </a>
                 </li>
                 <li class="nav-item">
+                    <a href="index.php?page=product" class="nav-link">
+                        <i class="bi bi-box-fill"></i>
+                        <p>Product</p>
+                    </a>
+                </li>
+                <li class="nav-item">
                     <a href="../logout.php" class="nav-link">
                         <i class="bi bi-box-arrow-left"></i>
                         <p>Logout</p>
